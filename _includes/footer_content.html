@@ -1,0 +1,7 @@
+{% assign feed_path = "/feed.xml" %}
+{% if site.feed and site.feed.path %}
+  {% assign feed_path = site.feed.path %}
+{% endif %}
+Powered by <a href="https://jekyllrb.com" target="_blank">Jekyll</a> &amp; customized <a href="https://github.com/yous/whiteglass" target="_blank">whiteglass</a> theme
+<br> 
+<a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a> <a rel="frappsec github" href="https://github.com/frappsec/frappsec.github.io/" target="_blank"><img alt="FrAppSec GitHub" height="48" style="border-width:0" src="/assets/github.png" /></a> <a rel="frappsec twitter" href="https://twitter.com/FrAppSec" target="_blank"><img alt="FrAppSec Twitter" height="48" style="border-width:0" src="/assets/twitter.png" /></a> <a rel="mail" href="mailto:frappsec@frappsec.org" target="_blank"><img alt="Mail" height="48" style="border-width:0" src="/assets/mail.png" /></a> <a href="{{ feed_path | absolute_url }}" target="_blank"><img alt="RSS" height="48" style="border-width:0" src="/assets/rss.png" /></a>

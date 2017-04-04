@@ -1,0 +1,28 @@
+<header class="site-header">
+
+  <div class="wrapper">
+
+<!--    <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a> -->
+        <a class="site-title" href="{{ "/" | relative_url }}"><img border="0" alt="FrAppSec" src="/assets/frappsec header no text.png" height="50"></a>
+
+    <nav class="site-nav">
+      {% for link in site.data.navigation.main %}
+        {% if link.url contains "http" %}
+          {% assign url = link.url %}
+        {% else %}
+          {% assign url = link.url | relative_url %}
+        {% endif %}
+        <a class="page-link" href="{{ url }}">{{ link.title }}</a>
+      {% endfor %}
+
+<!-- social media in the header bar -->
+        <a class="page-link" href="https://github.com/frappsec/frappsec.github.io/" target="_blank"><img alt="FrAppSec GitHub" height="24" style="border-width:0" src="/assets/github.png" /></a>
+        <a class="page-link" href="https://twitter.com/FrAppSec" target="_blank"><img alt="FrAppSec Twitter" height="24" style="border-width:0" src="/assets/twitter.png" /></a>
+        <a class="page-link" href="mailto:frappsec@frappsec.org"><img alt="Mail" height="24" style="border-width:0" src="/assets/mail.png" /></a>
+        <a class="page-link" href="https://www.frappsec.org/feed.xml" target="_blank"><img alt="RSS" height="24" style="border-width:0" src="/assets/rss.png" /></a>
+
+    </nav>
+
+  </div>
+
+</header>
