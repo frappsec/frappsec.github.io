@@ -11,7 +11,7 @@ meta: "FrappSec"
 It provides the logic and the structure needed to run a successful application security program.
 
 <div align="center">
-![FrAppSec](../../../../assets/logo frappsec.png)
+<img src ="../../../../assets/logo frappsec.png" />
 </div>
 
 **FrAppSec** proposes new paradigms, challenges current approaches, and improves existing models to create the end to end approach needed to secure modern day complex applications.
