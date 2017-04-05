@@ -9,7 +9,7 @@ layout: home
 
 _FrAppSec_ or the _Framework for Application Security_ is a model for the organization of a successful application security program at an enterprise level.
 
-It is the blueprint providing a holistic view of the application security landscape, identifying the actors involved in the process, their needs and ways to achieve those needs. The end goal is to deliver the acceptable level of security with the minimum amount of investment.
+It is the blueprint providing a holistic view of the application security landscape, identifying the actors involved in the process, their needs and ways to achieve those needs. The end goal is to deliver the acceptable level of security with the minimum amount of effort.
 
 ___
 
