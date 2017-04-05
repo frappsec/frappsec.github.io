@@ -439,6 +439,8 @@ A small team developing one application in a startup fashion can reduce the size
 
 The Security stakeholder in the Q Matrix should be a reflection of the other ones. The matrix provides visibility and alignment between stakeholders and allows for gap identification in the initial phases of the project. Not only Security can benefit from having such a mapping.
 
+_FrAppSec Q Matrix_ is to be complited as part of the [hard layer](#layers), during the customization of the [intelligence group of activities in the maturity model](#activities). It is a specific document or set of documents for individual applications. It might not make sense to have a full matrix for all applications and this should be documented in the [service catalog](#service-catalog).
+
 <a name="activities"></a>
 ### Activities
 
