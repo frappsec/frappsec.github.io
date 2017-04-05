@@ -281,7 +281,7 @@ $$ \boldsymbol{VR = VL * VI} $$
 
 A sample vulnerability risk scoring matrix with a scale of 3 for likelihood and impact:
 
-[![vulnerability risk scoring matrix](/FrAppSec resources/vulnerability risk scoring matrix.png)](https://github.com/frappsec/frappsec.github.io/blob/master/FrAppSec%20resources/vulnerability%20risk%20scoring%20matrix.xlsx)
+[![vulnerability risk scoring matrix](/FrAppSec resources/vulnerability risk scoring matrix.png)](https://github.com/frappsec/frappsec.github.io/blob/master/FrAppSec%20resources/vulnerability%20risk%20scoring%20matrix.xlsx){:target="_blank"}
 
 Color coding is used in conjunction with the risk appetite statement to illustrate the zones which are not accepted.
 
@@ -411,7 +411,7 @@ Just like with actors, the groups can be defined depending on the particularitie
 
 In the spirit of the current framework, a perspective is the point of view of a particular actor. Multiple actors will see the same application in different ways, will perceive certain aspects and be blind to others.
 
-[![perspectives](/FrAppSec resources/perspectives.png)](https://github.com/frappsec/frappsec.github.io/blob/master/FrAppSec%20resources/perspectives.pptx)
+[![perspectives](/FrAppSec resources/perspectives.png)](https://github.com/frappsec/frappsec.github.io/blob/master/FrAppSec%20resources/perspectives.pptx){:target="_blank"}
 
 A successful application security framework is able to collate all perspectives in order to provide a holistic view, understand each actor's needs in respect to security and provide the optimal solutions within the risk appetite. An ideal framework aims also to minimize the overlaps.
 
@@ -429,7 +429,7 @@ The way to achieve this is to ask each actor the right questions:
 
 For simplicity, the framework is providing the **Q(uestions) Matrix** as a mean to collect information focusing on the four actor groups identified in the previous chapter. A successful matrix is one that minimizes overlaps whilst avoiding blind spots.
 
-[![frappsec q matrix](/FrAppSec resources/frappsec q matrix.png)](https://github.com/frappsec/frappsec.github.io/blob/master/FrAppSec%20resources/frappsec%20q%20matrix.xlsx)
+[![frappsec q matrix](/FrAppSec resources/frappsec q matrix.png)](https://github.com/frappsec/frappsec.github.io/blob/master/FrAppSec%20resources/frappsec%20q%20matrix.xlsx){:target="_blank"}
 
 In the spirit of the framework, the matrix is flexible and will be defined on an individual basis.
 
