@@ -15,8 +15,8 @@ ___
 
 # And now what?
 
-- Check out [the framework](/FrAppSec/){:target="_blank"}
-- Learn more [about us and the project](/about/){:target="_blank"}
+- Check out [the framework](/FrAppSec/)
+- Learn more [about us and the project](/about/)
 - Check us on [GitHub](https://github.com/frappsec){:target="_blank"} or [Twitter](https://twitter.com/FrAppSec){:target="_blank"}
 
 ___
