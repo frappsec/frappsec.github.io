@@ -442,7 +442,7 @@ The Security stakeholder in the Q Matrix should be a reflection of the other one
 _FrAppSec Q Matrix_ is to be complited as part of the [hard layer](#layers), during the customization of the [intelligence group of activities in the maturity model](#activities). It is a specific document or set of documents for individual applications. It might not make sense to have a full matrix for all applications and this should be documented in the [service catalog](#service-catalog).
 
 <a name="activities"></a>
-### Activities
+# Activities
 
 The scope of FrAppSec is not to detail the activities. Other initiatives ( [BSIMM](https://www.bsimm.com/) and [OpenSAMM](http://www.opensamm.org/) in particular) already did this and they have been through a number of iterations, making them mature and robust. FrAppSec aims at providing the interconnection between the activities in order to achieve a successful application security program.
 
@@ -450,20 +450,74 @@ In alignment with BSIMM and OpenSAMM, FrAppSec defines 4 areas and 12 activities
 
 - Governance - Organization, management and measurement of application security
   - Strategy - defining the mission, roles and responsibilities, high level processes
+    - Define, track and categorize the scope (all applications)
+    - Define and publish processes
+    - Integrate with the processes to provide security and privacy sign-off
+    - Promote the existance and role of the security group
+    - Identify and collect metrics
+    - Track the security status in a unified manner
   - Policy - collecting requirements and publish the top level policy and the associated processes
+    - Unify regulatory pressures
+    - Create secure development policy
+    - Perform data inventory based on data classification
+    - Align 3rd parties with the internal privacy and policy program
+    - Improve policies based on the feedback from the development lifecycle
   - Training - providing targeted training for all the stakeholders
+    - Provide generic training 
+    - Provide specific training
+    - Use internal, real world examples for training
+    - Execute hackathons
 - Intelligence - Collection of knowledge to guide the secure development cycle
   - Requirements - creating generic and specific requirements derived from the regulatory and strategic specifications
+    - Publish security standards and requirements
+    - Translate compliance in security requirements 
+    - Create standards for technology stacks
+    - Identify and control open-source risks
   - Features - building a set of standard features, customizing based on needs, guiding the reuse of secure blocks
+    - Publish security features and patterns
+    - Review the architecture of new features
+    - Establish a list of pre-approved, secure by design framework
   - Attacks - inventorying data according to classification, building a list of common attacks, using real world events to enhance
+    - Map potential attackers
+    - Build attack patterns
+    - Publish real world attacks
+    - Develop new attacks
 - Secure Development - Activities to be performed during the development life-cycle
   - Architecture Analysis - reviewing the specific Intelligence items, standardizing architectural descriptions and analysis process, creating checklists for testing
+    - Review the architectural documentation
+    - Review data flow diagrams
+    - Log security defects in a unified repository
+    - Standardize architectural descriptions
+    - Create new security features and patterns
   - Static Analysis - running manual and automated source code security specific analysis
+    - Perform automated code reviews and manually filter the results
+    - Enforce coding standards
+    - Log security defects in a unified repository
+    - Integrate static analysis in the development pipeline
+    - Customize automated static analysis rules
   - Dynamic Analysis - performing manual and automated runtime security specific analysis
+    - Include basic security testing in the QA process
+    - Perform automated dynamic analysis and manually filter the results
+    - Perform manual testing
+    - Log security defects in a unified repository
+    - Perform testing based on requirements and features
+    - Log security defects in a unified repository
+    - Integrate dynamic analysis in the development pipeline
 - Production - Configuration, maintenance and monitoring of the application ecosystem
   - Vulnerability Management - running continuous automated testing on the production environment, feeding the results back into the cycle
+    - Perform automated scans of the supporting infrastructure and manually verify the results
+    - Log security defects in a unified repository
+    - Automate and run the assessments periodically
+    - Use external partners to run black box hacking exercises
   - Hardening - providing secure default states for the eco-system, reacting to Intelligence changes
+    - Use an application layer firewall
+    - Implement standard security guidelines for infrastructure configuration
   - Operational Intelligence - gathering feedback from operations and provide knowledge back into the cycle
+    - Implement a security incident management plan
+    - Implement technical means to detect security events
+    - Log security defects in a unified repository
+    - Use the intelligence gathered to feed the product life-cycle
+    - Simulate attacks
 
 Even though FrAppSec is not addressing maturity levels, they must be considered for all the activities, aligning with the [ITIL](https://en.wikipedia.org/wiki/ITIL) principle of continual service improvement.
 
