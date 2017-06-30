@@ -56,6 +56,7 @@ ___
 <a name="history"></a>
 ## History
 
+- 30.06.2017 - versioning removed. In a git environment with regular commits, the latest master branch is the one version of truth. Changes can be tracked and analyzed by anybody.
 - 2017.1 - _01.04.2017_ - first release  
 - 2016.0 - _November 2016 - March 2017_ - development of the framework, first round of reviews and changes
 
