@@ -4,10 +4,6 @@ title: Framework for Application Security
 permalink: /FrAppSec/
 ---
 
-[v2017.1](/about/#history)
-
-___
-
 <!-- MarkdownTOC depth=3 autolink=true autoanchor=true bracket=round -->
 
 - [Introduction](#introduction)
