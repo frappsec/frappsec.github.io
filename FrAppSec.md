@@ -22,7 +22,7 @@ permalink: /FrAppSec/
 - [Actors](#actors)
   - [Perspectives](#perspectives)
     - [FrAppSec Q Matrix](#frappsec-q-matrix)
-    - [Activities](#activities)
+- [Activities](#activities)
 - [FrAppSec Taxonomy](#frappsec-taxonomy)
   - [Layers](#layers)
   - [Organization](#organization)
@@ -54,7 +54,7 @@ Over the past few years, application security started to get recognition as an i
 - Software security effectiveness
 - Acquired software security impact
 
-[SANS](https://www.sans.org/) and more recently the Center for Internet Security ( [CIS](https://www.cisecurity.org/)) included &quot;Application Software Security&quot; in their critical [security controls list](https://www.cisecurity.org/critical-controls/). The security controls list is a starting point for strategic security architectural roadmaps. It provides a generic prioritized approach and a dissemination of the controls into more actionable items. The scope of the Application Software Security control is to &quot;manage the security lifecycle of all in-house developed and acquired software in order to prevent, detect, and correct security weaknesses&quot;. Nine sub-controls are emphasizing:
+[SANS](https://www.sans.org/) and more recently the Center for Internet Security ([CIS](https://www.cisecurity.org/)) included &quot;Application Software Security&quot; in their critical [security controls list](https://www.cisecurity.org/critical-controls/). The security controls list is a starting point for strategic security architectural roadmaps. It provides a generic prioritized approach and a dissemination of the controls into more actionable items. The scope of the Application Software Security control is to &quot;manage the security lifecycle of all in-house developed and acquired software in order to prevent, detect, and correct security weaknesses&quot;. Nine sub-controls are emphasizing:
 
 - Patch management
 - Application level firewall
@@ -581,7 +581,7 @@ Examples include:
 
 A proposed minimum service catalog can include:
 
-- Generic non-technical training  outlining the security principles, to be delivered as part of the on-boarding process and on a regular schedule afterwards
+- Generic non-technical training outlining the security principles, to be delivered as part of the on-boarding process and on a regular schedule afterwards
 - Standard application security requirements
 - Standard application security features
 - Automated source code security scanning
@@ -638,6 +638,8 @@ Secure Application Development Policy
 - Security features
 - Secure coding standards
 - Security standards
+
+[![FrAppSec Development Process](/FrAppSec resources/FrAppSec Development Process.png)](https://www.draw.io/?lightbox=1&highlight=FFFFFF&edit=_blank&layers=1&nav=1&title=FrAppSec%20Development%20Process.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Ffrappsec%2Ffrappsec.github.io%2Fmaster%2FFrAppSec%2520resources%2FFrAppSec%2520Development%2520Process.xml){:target="_blank"}
 
 RACI matrix for activities
 
