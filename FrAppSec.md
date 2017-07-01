@@ -36,7 +36,7 @@ permalink: /FrAppSec/
   - [RACI matrix for activities](#raci-matrix-for-activities)
   - [Risk assessment form](#risk-assessment-form)
   - [Standard architectural descriptions](#standard-architectural-descriptions)
-  - [Useful and referenced links](#useful-and-referenced-links)
+- [Useful and referenced links](#useful-and-referenced-links)
 
 <!-- /MarkdownTOC -->
 ___
@@ -664,7 +664,7 @@ Application security is a complex field. The following approach is to be underst
 ## Standard architectural descriptions
 
 <a name="useful-and-referenced-links"></a>
-## Useful and referenced links
+# Useful and referenced links
 
 [https://www.owasp.org/index.php/OWASP\_Risk\_Rating\_Methodology](https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology)
 
