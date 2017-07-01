@@ -640,6 +640,7 @@ Application security is a complex field. The following approach is to be underst
   - Security standards
 
 - FrAppSec Development Process
+
 [![FrAppSec Development Process](/FrAppSec resources/FrAppSec Development Process.png)](https://www.draw.io/?lightbox=1&highlight=FFFFFF&edit=_blank&layers=1&nav=1&title=FrAppSec%20Development%20Process.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Ffrappsec%2Ffrappsec.github.io%2Fmaster%2FFrAppSec%2520resources%2FFrAppSec%2520Development%2520Process.xml){:target="_blank"}
 
 - RACI matrix for activities
