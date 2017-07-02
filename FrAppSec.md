@@ -652,6 +652,8 @@ Application security is a complex field. The following approach is to be underst
 <a name="frappsec-development-process"></a>
 ## FrAppSec Development Process
 
+The proposed process covers three swimlanes across five major practices. Like everything else in this framework, it's meant to be adapted to the needs of the organization. It's not a project-like process with a clear beginning and ending. Other actors can be added, practices can be added or removed depending on the project. The process can be adapted to waterfall, agile and DevOps environments. In fast paced environments it's crucial to have a well engineered process and use automation to avoid delays caused by human interaction where this is not necessary.
+
 [![FrAppSec Development Process](/FrAppSec resources/FrAppSec Development Process.png)](https://www.draw.io/?lightbox=1&highlight=FFFFFF&edit=_blank&layers=1&nav=1&title=FrAppSec%20Development%20Process.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Ffrappsec%2Ffrappsec.github.io%2Fmaster%2FFrAppSec%2520resources%2FFrAppSec%2520Development%2520Process.xml){:target="_blank"}
 
 <a name="raci-matrix-for-activities"></a>
