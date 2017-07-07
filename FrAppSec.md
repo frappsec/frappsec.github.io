@@ -73,7 +73,7 @@ Over the past few years, application security started to get recognition as an i
 - Security training for developers
 - Suppression of development artifacts
 
-_The Building Security In Maturity Model (_ [_BSIMM_](https://www.bsimm.com/about/)_) is a study of existing software security initiatives. By quantifying the practices of many different organizations_, it describes _the common ground shared by many as well as the variation that makes each unique_. _BSIMM is not a &quot;how to&quot; guide, nor is it a one-size-fits-all prescription. Instead, BSIMM is a reflection of software security._ The aim is to measure and report the activities, not judge and propose models. All in all, BSIMM is structured in 4 domains, 12 practices and 113 activities:
+_The Building Security In Maturity Model (_[_BSIMM_](https://www.bsimm.com/about/)_) is a study of existing software security initiatives. By quantifying the practices of many different organizations_, it describes _the common ground shared by many as well as the variation that makes each unique_. _BSIMM is not a &quot;how to&quot; guide, nor is it a one-size-fits-all prescription. Instead, BSIMM is a reflection of software security._ The aim is to measure and report the activities, not judge and propose models. All in all, BSIMM is structured in 4 domains, 12 practices and 113 activities:
 
 - Governance
   - Strategy &amp; Metrics
@@ -504,7 +504,6 @@ In alignment with BSIMM and OpenSAMM, FrAppSec defines 4 areas and 12 activities
     - Perform manual testing
     - Log security defects in a unified repository
     - Perform testing based on requirements and features
-    - Log security defects in a unified repository
     - Integrate dynamic analysis in the development pipeline
 - Production - Configuration, maintenance and monitoring of the application ecosystem
   - Vulnerability Management - running continuous automated testing on the production environment, feeding the results back into the cycle
