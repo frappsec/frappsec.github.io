@@ -61,7 +61,7 @@ Over the past few years, application security started to get recognition as an i
 - Software security effectiveness
 - Acquired software security impact
 
-[SANS](https://www.sans.org/) and more recently the Center for Internet Security ([CIS](https://www.cisecurity.org/)) included &quot;Application Software Security&quot; in their critical [security controls list](https://www.cisecurity.org/critical-controls/). The security controls list is a starting point for strategic security architectural roadmaps. It provides a generic prioritized approach and a dissemination of the controls into more actionable items. The scope of the Application Software Security control is to &quot;manage the security lifecycle of all in-house developed and acquired software in order to prevent, detect, and correct security weaknesses&quot;. The nine sub-controls are:
+[SANS](https://www.sans.org/) and more recently the Center for Internet Security ([CIS](https://www.cisecurity.org/)) included &quot;Application Software Security&quot; in their critical [security controls list](https://www.cisecurity.org/critical-controls/). The security controls list is a starting point for strategic security architecture roadmaps. It provides a generic prioritized approach and a dissemination of the controls into more actionable items. The scope of the Application Software Security control is to &quot;manage the security lifecycle of all in-house developed and acquired software in order to prevent, detect, and correct security weaknesses&quot;. The nine sub-controls are:
 
 - Patch management
 - Application level firewall
@@ -191,7 +191,7 @@ _An application security audit is a measurable and repeatable technical assessme
 
 Traditionally, the application security audit is perceived as a non-technical compliance check.
 
-It's important to have a strict ruleset around audits including:
+It's important to have a strict rule set around audits including:
 
 - The scope
 - Methodology
@@ -210,7 +210,7 @@ The activity is usually conducted with the help of automated tools and the resul
 
 _Dynamic analysis is a runtime simulated attack on an application that aims to identify and potentially exploit security weaknesses, with the goal of gaining access to the application's functions and data._
 
-It can be automated, manual or anything inbetween. Depending on the information that is provided to the expert performing the activity, it can be white, grey or black box.
+It can be automated, manual or anything in between. Depending on the information that is provided to the expert performing the activity, it can be white, grey or black box.
 
 A white box approach means that the expert gets everything, from documentation to access to the infrastructure. He can conduct interviews with the actors involved to understand the functionality of the system and find flaws in the operating processes, not just on the technology side. The white box approach is highly desirable but not always feasible.
 
@@ -444,7 +444,7 @@ A small team developing one application in a startup fashion can reduce the size
 
 The Security stakeholder in the Q Matrix should be a reflection of the other ones. The matrix provides visibility and alignment between stakeholders and allows for gap identification in the initial phases of the project. Not only Security can benefit from having such a mapping.
 
-_FrAppSec Q Matrix_ is to be complited as part of the [hard layer](#layers), during the customization of the [intelligence group of activities in the maturity model](#activities). It is a specific document or set of documents for individual applications. It might not make sense to have a full matrix for all applications and this should be documented in the [service catalog](#service-catalog).
+_FrAppSec Q Matrix_ is to be completed as part of the [hard layer](#layers), during the customization of the [intelligence group of activities in the maturity model](#activities). It is a specific document or set of documents for individual applications. It might not make sense to have a full matrix for all applications and this should be documented in the [service catalog](#service-catalog).
 
 <a name="activities"></a>
 # Activities
@@ -458,7 +458,7 @@ In alignment with BSIMM and OpenSAMM, FrAppSec defines 4 areas and 12 activities
     - Define, track and categorize the scope (all applications)
     - Define and publish processes
     - Integrate with the processes to provide security and privacy sign-off
-    - Promote the existance and role of the security group
+    - Promote the existence and role of the security group
     - Identify and collect metrics
     - Track the security status in a unified manner
   - Policy - collecting requirements and publish the top level policy and the associated processes
@@ -513,7 +513,7 @@ In alignment with BSIMM and OpenSAMM, FrAppSec defines 4 areas and 12 activities
     - Log security defects in a unified repository
     - Automate and run the assessments periodically
     - Use external partners to run black box hacking exercises
-  - Hardening - providing secure default states for the eco-system, reacting to Intelligence changes
+  - Hardening - providing secure default states for the ecosystem, reacting to Intelligence changes
     - Use an application layer firewall
     - Implement standard security guidelines for infrastructure configuration
   - Operational Intelligence - gathering feedback from operations and provide knowledge back into the cycle
